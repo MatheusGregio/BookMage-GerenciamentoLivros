@@ -1,0 +1,42 @@
+body {
+    background-image: url("../images/Library_background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.center_div{
+    border: 1px solid #94928d;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: 7%;
+    border-radius: 20px;
+    width: fit-content;
+}
+
+.form-login {
+    width: 100%;
+    padding: 30px 20px 60px 20px;
+    font-family: 'Piazzolla', serif;
+}
+
+.login-btn {
+    width: 100%;
+}
+
+.form-group-final {
+    margin: 0 auto;
+}
+
+h6{
+    padding-top: 10px;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Piazzolla', serif;
+    text-transform: uppercase;
+    text-decoration: solid;
+    font-size: 1.3em;
+}
